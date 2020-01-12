@@ -1,3 +1,6 @@
-# SQL-Homework
+# Employee-Database-Project-SQL
 
-Created, populated and queried a database of employee information using postgreSQL.
+In this project I created, populated and queried a database of employee information using postgreSQL. 
+
+![ERDiagram](/QuickDBD-HW7-SQL.png)
+
